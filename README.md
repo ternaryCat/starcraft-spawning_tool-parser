@@ -3,7 +3,7 @@
 Took builds from this [site](https://lotv.spawningtool.com/build/)
 
 ## Installing
-For workin need [jupyter notebook](http://jupyter.org/)
+For working need [jupyter notebook](http://jupyter.org/)
 
 installing jupyter is described [here](http://jupyter.org/install.html)
 
