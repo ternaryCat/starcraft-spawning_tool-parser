@@ -11,6 +11,10 @@ for install required libs need run first cell
 ```
 !pip install numpy pandas requests bs4
 ```
+if it doesn't work, try
+```
+!pip3 install numpy pandas requests bs4
+```
 
 ## What was parsed
 ### From page with build orders
